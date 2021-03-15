@@ -12,3 +12,7 @@ Exemple de projet git
 - git commit --amend
 - git reset
 - git rebase
+
+# Historique avancé
+
+- git rebase -i
