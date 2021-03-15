@@ -16,3 +16,10 @@ Exemple de projet git
 # Historique avancé
 
 - git rebase -i
+
+# Workflow
+
+- Git flow
+- Github flow
+- Gitlab flow
+- Fork
